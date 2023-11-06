@@ -1,0 +1,87 @@
+body {
+	background: linear-gradient(
+		109.6deg,
+		rgb(36, 45, 57) 11.2%,
+		rgb(16, 37, 60) 51.2%,
+		rgb(0, 0, 0) 98.6%
+	);
+}
+
+h1 {
+	text-align: center;
+	font-family: cerebri sans, helvetica, arial, sans-serif;
+	font-weight: 900;
+	font-size: 42px;
+	line-height: 48px;
+}
+
+h2 {
+	text-align: center;
+	font-family: cerebri sans, helvetica, arial, sans-serif;
+	font-weight: 900;
+	font-size: 30px;
+	line-height: 48px;
+}
+
+ol {
+	display: inline-block;
+	text-align: left;
+	font-size: 24px;
+	line-height: 28px;
+	font-family: "Source Code Pro", monospace;
+}
+
+p {
+	text-align: center;
+	font-size: 18px;
+	line-height: 28px;
+	font-family: "Source Code Pro", monospace;
+}
+
+button {
+	display: block;
+	margin: 16px auto;
+	border: 1px solid white;
+	background: white;
+	color: black;
+	font-size: 20px;
+	border-radius: 6px;
+	padding: 8px 16px;
+	transition: all 150ms ease-in-out;
+}
+
+button:hover {
+	border: 1px solid white;
+	background: rgb(36, 45, 57);
+	color: white;
+	cursor: pointer;
+}
+img {
+	width: 80%;
+	border-radius: 10px;
+	margin: 22px;
+	transition: all 150ms ease-in-out;
+}
+
+img:hover {
+	transform: scale(1.2);
+}
+
+footer {
+	color: white;
+	text-align: center;
+}
+
+.container {
+	text-align: center;
+	background: rgb(44, 58, 76);
+	color: white;
+	max-width: 600px;
+	margin: 42px auto;
+	padding: 24px;
+	border-radius: 10px;
+}
+
+.note {
+	margin-top: 64px;
+}
