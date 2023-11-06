@@ -1,2 +1,1 @@
-# book-club
-site for organizing my book club
+# Website for Organizing My Book Club
