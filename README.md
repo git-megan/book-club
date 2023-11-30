@@ -2,7 +2,7 @@
 I created a quick website that allows members of my bookclub to know whose turn it is to speak during our discussion time. 
 
 ## Accessing the Website
-You can access the site through index.html right now. To improve this further, I would like to host this site online, so my book club members can more easily access the site.
+I decided to host the site using Netlify, so my book club members can more easily access the site. You can access the site here: https://creative-sorbet-ada41e.netlify.app/ 
 
 ## Future Improvements
 Below are a couple of improvements I'd like to make to this project:
