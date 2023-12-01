@@ -6,5 +6,6 @@ I decided to host the site using Netlify, so my book club members can more easil
 
 ## Future Improvements
 Below are a couple of improvements I'd like to make to this project:
-* Friendly URL: I'd like to buy a domain name so that it is easier for my book club members to remember the URL needed to access this site
-* Improved Logic: I'd like to prevent the case in which a user clicks shuffle and the list does not shuffle because the program randomly picked the same order that it was currently in.
+* Add Settings Functionality for the Attendee List: Allow users to modify the book club attendee list, so that different names can appear in the list depending on who is present.
+* Improve the URL: I'd like to buy a domain name so that it is easier for my book club members to remember the URL needed to access this site
+* Improve the Logic: I'd like to prevent the case in which a user clicks shuffle and the list does not shuffle because the program randomly picked the same order that it was currently in.
